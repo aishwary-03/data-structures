@@ -12,6 +12,6 @@ def getSecondOrderElements(n: int,  a: [int]) -> [int]:
             secondMax = ele;
     return secondMax;
 
-secondLargestElement = getSecondOrderElements(5, [1,2,3,4,5,6,7,8]);
+secondLargestElement = getSecondOrderElements(5, [1,2,3,4,5]);
 
 print(secondLargestElement);
