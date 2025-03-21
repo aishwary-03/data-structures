@@ -6,4 +6,4 @@ def getSingleElement(arr : list[int]) -> int:
         i = i + 2
     return arr[-1]    
 
-print(getSingleElement([1, 1, 2, 3, 3, 4, 4]))
+print(getSingleElement([1, 1, 2, 3, 3, 4, 4]))  
